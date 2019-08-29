@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [4.0.12] - 2019-08-29
 ### Changed
-- Bumped up to Zabbix 4.0.10
+- Bumped up to Zabbix 4.0.12
 
 ## [4.0.10] - 2019-07-29
 ### Changed

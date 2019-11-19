@@ -1,11 +1,11 @@
-﻿$version        = '4.0.12'
+﻿$version        = '4.0.14'
 $id             = 'zabbix-agent'
 $title          = 'Zabbix Agent'
 $url            = "https://www.zabbix.com/downloads/$version/zabbix_agents-$version-win-i386-openssl.zip"
 $url64          = "https://www.zabbix.com/downloads/$version/zabbix_agents-$version-win-amd64-openssl.zip"
-$checksum       = "ea5d2b0d05465514f45062660fa8bdc6"
+$checksum       = "6041ff70dbe78e92164c0f112e93a9da"
 $checksumType   = "md5"
-$checksum64     = "7f635659b79b3b862e09ab67db2a45b0"
+$checksum64     = "552f5146f12aed4217f9d0408f29e4d6"
 $checksumType64 = "md5"
 
 $configDir      = Join-Path $env:PROGRAMDATA 'zabbix'

@@ -5,8 +5,8 @@ $title        = 'Zabbix Agent'
 $version      = '4.0.14'
 $url32        = "https://www.zabbix.com/downloads/$version/zabbix_agent-$version-win-i386-openssl.msi"
 $url64        = "https://www.zabbix.com/downloads/$version/zabbix_agent-$version-win-amd64-openssl.msi"
-$checksum32   = '94ed7e5058e64a5bdb1ca78f2059b2bc'
-$checksum64   = '70e2ac83c8848c4735c96a606ebb42eb'
+$checksum32   = '045daa57f2b948e0b720259a65a0d238'
+$checksum64   = '42c2b37580e0fe38120e38ee932334ba'
 
 $installDir = Join-Path $env:PROGRAMFILES $title
 
